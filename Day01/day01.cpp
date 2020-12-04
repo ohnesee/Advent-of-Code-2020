@@ -1,5 +1,3 @@
-// C++ program to demonstrate how vectors 
-// can be passed by reference. 
 #include <iostream>
 #include <vector>
 #include <string>
@@ -29,8 +27,6 @@ int part1(vector<int> &vec) {
 
   return -1;
 }
-
-//TODO: find triplet
 
 int main() 
 { 
